@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "board.size",
+      "type": "java.lang.Integer",
+      "description": "board's size"
+    }
+  ] }
